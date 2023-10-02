@@ -7,12 +7,12 @@ The image is selected and shown by both filtering and selection of items in othe
 
 Get the latest release and follow the next steps
 
--  Goto latest release https://github.com/GeoAi-nl/PowerBI-ImageViewer/releases/latest
--  Download the ImageViewer.pbiviz and ImageViewerDemo.csv file
--  Open PowerBi load the ImageViewerDemo.csv via GetData and then Text CSV
--  Open de visualisation panel press 'Get More Visualisation' and then 'Import a visualisation from file'
--  Select ImageViewer.pbiviz an new visualisation is added looking right at you
--  Add the new visualisation to the report and select
+-  Goto latest release https://github.com/GeoAi-nl/PowerBI-ImageViewer/releases/latest.
+-  Download the ImageViewer.pbiviz and ImageViewerDemo.csv file.
+-  Open PowerBi and load the ImageViewerDemo.csv via 'Get data' and 'Text CSV'.
+-  Open de visualisation panel press 'Get More Visualisation' and then 'Import a visualisation from file'.
+-  Select ImageViewer.pbiviz an new visualisation is added looking right at you.
+-  Add the new visualisation to the report and select.
 -  Fill the Image_URL and Ordering field and step through the images.
 
 For more information take a look at: https://www.geoai.nl/en/analytics
