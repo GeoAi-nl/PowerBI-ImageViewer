@@ -3,7 +3,7 @@
 The image viewer is a basic Microsoft PowerBI visual for stepping through images by using the arrows on both sides.
 The user can go fowards and backwards through a dataset creating a single selection in the report. 
 Ordering is determined by a predefined data field and the image is shown based on a web url. 
-The image is selected and shown by both filtering and selection of items in other visuals.
+The image is selected and shown via both filtering and selection of items in other visuals.
 
 Get the latest release and follow the next steps
 
