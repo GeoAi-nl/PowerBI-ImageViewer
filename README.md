@@ -7,9 +7,10 @@ The image interacts directly via both filtering and selection on related data wi
 
 Add this versatile image viewer to your report by following these steps:
 
--  Get the latest release https://github.com/GeoAi-nl/PowerBI-ImageViewer/releases/latest.
--  Download the ImageViewer.pbiviz and ImageViewerDemo.csv file.
+-  Download ImageViewerDemo.csv from the repository.
 -  Open PowerBi and load the ImageViewerDemo.csv via 'Get data' and 'Text CSV'.
+-  Get the latest release https://github.com/GeoAi-nl/PowerBI-ImageViewer/releases/latest.
+-  Download the ImageViewer.pbiviz file from the latest release.
 -  Open the visualisation panel press 'Get More Visualisations' and then 'Import a visualisation from file'.
 -  Select ImageViewer.pbiviz and the new visual is ready for you to use.
 -  Add the ImageViewer visual to the report and select it to begin configuring it.
